@@ -1,0 +1,31 @@
+# Arquivos de dependências
+/node_modules
+
+# Arquivo de ambiente
+.env
+.gitconfig
+/documentation
+
+# Arquivos de build
+/build
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração específicos de IDEs
+.vscode
+.idea
+
+# Arquivos de cache
+*.log
+*.lock
+.DS_Store
+
+# Arquivos de cache do sistema operacional
+Thumbs.db
+.DS_Store
+
+# Arquivos temporários
+.tmp
