@@ -1,9 +1,8 @@
 # Node Express Ignite
 ## O Boilerplate Node Express para Desenvolvimento Rápido
 
-Este projeto boilerplate oferece uma base sólida para iniciar rapidamente o desenvolvimento de aplicações Node.js. Vem pré-configurado com Express, MongoDB, Mongoose, Dotenv, Nodemon e Module Alias, proporcionando uma infraestrutura robusta desde o início.
-
-Ao dar os primeiros passos como desenvolvedor Node.js, enfrentei várias dificuldades na configuração do ambiente de desenvolvimento e na integração de tecnologias. Foi então que percebi a necessidade de um ponto de partida sólido para facilitar essa etapa inicial. Assim, criei este projeto boilerplate com o objetivo de oferecer uma estrutura confiável e simplificada para desenvolvedores iniciantes, permitindo economizar tempo e esforço na configuração inicial de projetos.
+Criei este projeto boilerplate com o objetivo de oferecer uma estrutura confiável e simplificada para desenvolvedores iniciantes, permitindo economizar tempo e esforço na configuração inicial de projetos.
+Ele já vem pré-configurado com Express, MongoDB, Mongoose, Dotenv, Nodemon e Module Alias, proporcionando uma infraestrutura robusta desde o início.
 
 ### Funcionalidades
 
